@@ -4,6 +4,8 @@ Rough progression for each track. The daily run picks the next uncovered topic (
 
 ## 1. Probability & Statistics
 
+*Restarted from topic 1 on 2026-10-19 in an intuition-first style (see the style guide in README.md). Each day takes the next topic below, one core idea per day; a topic may take two or three days if needed.*
+
 1. Conditional probability, Bayes, and the law of total probability (beyond textbook level)
 2. Linearity of expectation and indicator-variable tricks
 3. Conditional expectation as a projection; tower property; law of total variance
@@ -70,3 +72,7 @@ Rough progression for each track. The daily run picks the next uncovered topic (
 18. Randomized algorithms: reservoir sampling, shuffle
 19. Concurrency basics in C++ (threads, mutex, atomics)
 20. Low-latency C++ concepts (cache locality, move semantics, avoiding allocations)
+
+## 4. Music
+
+Classic rock, one song per day, never repeated. Very famous bands only (Pink Floyd, The Doors, The Beatles, Led Zeppelin, The Rolling Stones, The Who, Queen, Jimi Hendrix, Cream, Eagles, Fleetwood Mac, Dire Straits, Deep Purple, Lynyrd Skynyrd, The Kinks, etc.). Vary the band from day to day.

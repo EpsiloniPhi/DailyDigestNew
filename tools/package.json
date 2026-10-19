@@ -1,0 +1,6 @@
+{
+  "name": "digest-pdf-tools",
+  "private": true,
+  "description": "KaTeX for rendering digest PDFs (see make_pdf.py)",
+  "dependencies": { "katex": "0.16.11" }
+}
