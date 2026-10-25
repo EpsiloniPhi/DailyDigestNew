@@ -2,7 +2,9 @@
 
 Every digest appends one row here. Newest at the bottom.
 
-**Probability & Statistics restart (2026-10-19):** the P&S track restarted from topic 1 of CURRICULUM.md in a simpler, intuition-first style. P&S topics in rows before 2026-10-19 do not count as covered for the new run (but never reuse their exact interview questions). Music recommendations must never repeat a song already listed in the Music column.
+**Probability & Statistics restart (2026-10-19):** the P&S track restarted from topic 1 of CURRICULUM.md in a simpler, intuition-first style. P&S topics in rows before 2026-10-19 do not count as covered for the new run (but never reuse their exact interview questions). **Foundations Restart (2026-10-26):** starting with the first digest after the original 2026-10-26 one (it may be named 2026-10-26-b), ALL THREE study tracks restarted from Lesson 1 of the new CURRICULUM.md (basics first, one lesson building on the next, revision every Sunday). Only rows marked "FR" count as covered for the new curriculum. Write each topic as "FR L<n>: <title>" (or "FR L<n> part k", or "FR Revision: ..."). Never reuse an exact interview question that appears anywhere in the repo.
+
+Music recommendations must never repeat a song already listed in the Music column.
 
 | Date | Probability & Statistics | Derivatives | Algorithms & DS | Difficulty (P / D / A) | Music |
 |------|--------------------------|-------------|-----------------|------------------------|-------|
